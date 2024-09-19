@@ -29,6 +29,5 @@ Purpose: To assess how the availability of shelter resources may impact recovery
 
 ![image](https://github.com/user-attachments/assets/e2e2508b-3c80-482b-be55-b6965640425b)
 
+![image](https://github.com/user-attachments/assets/f8e1815b-5ceb-4bd7-854b-9728f4940f99)
 
-
-![image alt](https://github.com/akashh707/Diagnostic-Analysis-of-Lost-Animal-Reports-in-Vancouver/blob/4db38b569eddf79da9610f04a75a2666bb6c490b/MONTERING.png)
