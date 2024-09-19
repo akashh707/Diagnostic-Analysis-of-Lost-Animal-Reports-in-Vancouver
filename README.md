@@ -33,4 +33,7 @@ Purpose: To assess how the availability of shelter resources may impact recovery
 
 ![image](https://github.com/user-attachments/assets/8238a11c-1b12-4f6d-866a-0a8190aa5a56)
 
+![image](https://github.com/user-attachments/assets/27a62b10-570d-4928-9eb2-5cab4b335833)
+
+
 
