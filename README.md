@@ -26,3 +26,6 @@ Animal Shelter Capacity and Activity Logs
 
 Data on the capacity and activities of animal shelters in Vancouver.
 Purpose: To assess how the availability of shelter resources may impact recovery rates for missing animals.
+
+
+![image alt](https://github.com/akashh707/Diagnostic-Analysis-of-Lost-Animal-Reports-in-Vancouver/blob/4db38b569eddf79da9610f04a75a2666bb6c490b/MONTERING.png)
